@@ -1,5 +1,4 @@
 ## 📊 PicPayClone #
- Clone App PicPay
  ![Screen]( https://github.com/joaoneto147/PicPayClone/blob/master/screenshot/home.gif?raw=true)
 
  
